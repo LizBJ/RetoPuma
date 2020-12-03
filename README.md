@@ -7,7 +7,7 @@ RETO 1 (APRENDIENDO EN COMUNIDAD   :woman_technologist: |  :woman_technologist: 
 El objetivo principal de este proyecto es llegar a trabajar de forma colaborativa con git y github logrando  cumplir nuestras tareas planteadas como squad. Pudiendo solucionar conflictos y cumpliendo los 3 estados del colaborativos del git.
 - Para la organización del proyecto llegamos utilizar TRELLO (herramienta que te permite llevar las tareas al día) https://trello.com/b/RMCYe3Yt/reto-puma
 -También llegamos elaborar nuestro prototipo en baja fidelidad con FIGMA https://www.figma.com/file/l5sQw3h63m1Gw1QcNQEqH6/CODELATIM-P39A?node-id=0%3A1
-
+![portafolio](https://raw.githubusercontent.com/LizBJ/RetoPuma/master/img/portafolio-puma.png)
 
 ### Git y GitHub
 - [x] Utilizar los repositorios de GitHub (`clone` | `fork` | gh-pages).
