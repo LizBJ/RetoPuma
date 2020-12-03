@@ -38,10 +38,7 @@
    main section {
 	   margin: 30px 3px;
    }
-   .mitad{
-	   width: 50%;
-	   float: left;
-   }
+   
    header .logo
    {
 	   line-height: 100px;
@@ -570,6 +567,41 @@ figure.bandera {
 		border-radius: 20px;
 	}
 
+/*extras*/
+ul {
+    width: 80%;
+    text-align: initial;
+}
 
+.row-tree {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    width: 100%;
+	padding-top: 250px;
+	margin-top: -230px;
+}
 
+article.mitad{
+	background-color: #ef9f9957;
+	border-radius: 50px;
+	width: 80%;
+	   float: left;
+}
 
+article.mitad figure img {
+    width: 100%;
+}
+article.mitad figure img {
+    width: 70%;
+    height: 10%;
+    border-radius: 50% !important;
+    margin-top: 40px;
+}
+
+article.section-liz.mitad figure img {
+    /* width: 60%; */
+    height: 250px;
+}
+.wrapper-e {
+    margin-top: 100px;
+}
